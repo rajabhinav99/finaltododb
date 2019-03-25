@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "email": "rajabhi@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "email": "shray",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "email": "abhi",
+      "password": "123"
+    },
+    {
+      "id": 4,
+      "email": "shray",
+      "password": "123"
+    },
+    {
+      "id": 5,
+      "email": "a",
+      "password": "a"
+    },
+    {
+      "id": 6,
+      "email": "supriya",
+      "password": "123"
+    }
+  ],
+  "todo": [
+    {
+      "id": 1,
+      "todoName": "Samsung 9",
+      "status": "completed"
+    },
+    {
+      "id": 6,
+      "todoName": "ankitraj",
+      "status": "completed"
+    }
+  ]
+}
